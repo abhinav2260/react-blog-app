@@ -1,0 +1,33 @@
+[
+    {
+        "name": "Home",
+        "key": 1,
+        "link": "/"
+    },
+    {
+        "name": "Bollywood",
+        "key": 2,
+        "link": "/category/Bollywood"
+    },
+    {
+        "name": "Technology",
+        "key": 3,
+        "link": "/category/Technology"
+    },
+    {
+        "name": "Hollywood",
+        "key": 4,
+        "link": "/category/Hollywood"
+    },
+    {
+        "name": "Fitness",
+        "key": 5,
+        "link": "/category/Fitness"
+    },
+    {
+        "name": "Food",
+        "key": 6,
+        "link": "/category/Food"
+    }
+   
+]

@@ -1,0 +1,61 @@
+.heading{
+           text-align: center;
+          display: flex;
+          justify-content:center ;
+          
+          
+}
+
+
+.Thetext{
+    position: relative;
+    transform: rotate(-90deg);
+    width: 60px;
+    height: 39px;
+    font: normal normal 25px Montserrat;
+    font-weight: 600;
+    top: 59px;
+    left: 25px;
+}
+
+.siren{
+    top: 71px;
+    left: 873px;
+    width: 190px;
+    height: 87px;
+    font: normal normal bold 71px/87px Montserrat;
+    
+    /* width: 190px;
+    height: 87px; */
+}
+
+.navtab{
+        display: flex;
+        justify-content: space-between;
+        font: normal normal  12px Montserrat;
+        position: relative;
+        max-width: 1079px;
+        margin-left: 402px;
+        margin-right: 402px;
+      
+}
+
+.navtab::after{
+    content: "";
+    position: absolute;
+    top: 54px;
+    display: block;
+    height: 1.5px;
+    background: #908D8D;
+    width: 1200px;
+    left: -60px;
+    opacity: 25%;
+    
+}
+
+.navtext{
+    text-decoration: none;
+    color: black;
+    font: normal normal  12px Montserrat;
+
+}

@@ -1,0 +1,49 @@
+[
+    {   "id":1,
+    "date":"21 August 2022",
+    "image": "/images/Hollywood/alu.jpg",
+    "topic" : "Buzz: Allu Arjun to make his Hollywood debut",
+    "short_content":"Recently, Allu Arjun made India proud as he represented India in the annual Indian day parade in New York.",
+    "category":"Hollywood",
+    "content":"After showcasing his acting prowess and spectacular skills in ‘Pushpa: The Rise’, Allu Arjun has made his way into millions of hearts and also proved his worth as an actor. Already a big name in the Telugu film industry, he is now quickly becoming the most sought-after actor in the world.In fact, recently, Allu Arjun made India proud as he represented India as the Grand Marshall in the annual Indian day parade in New York.Fans have been going gaga over the great honor that has been bestowed upon Allu Arjun. Well, in other good news for fans, seems like he is soon going to make his Hollywood debut.Yes, you read that right! According to a report in Pinkvilla, a source revealed, “Allu Arjun has been offered a Hollywood film by a big-shot director- producer from the industry. While the actor was in New York for the parade, he happened to do a hush-hush meeting for a Superhero franchise that he was offered."
+    },
+
+    {   "id":2,
+    "date":"20 August 2022",
+    "image": "/images/Hollywood/evil.jfif",
+    "topic" : "‘Resident Evil’ Canceled After Single Season on Netflix",
+    "short_content":"The live-action series based on the long-running franchise debuted in July will be short-lived one.",
+    "category":"Hollywood",
+    "content":"Netflix has canceled the series after a single season. The decision comes six weeks after Resident Evil’s July 14 debut and after both the streamer’s own metrics and external measurements showed the series didn’t have a long shelf life with viewers.The series was the first live action show in the media-spanning Resident Evil universe after a host of video games and movie adaptations and a Netflix animated series that premiered in 2021. It’s set primarily in 2036, 14 years after a deadly virus caused a global apocalypse, and centers on a young woman (Ella Balinska) fighting for survival amid hordes of zombies and other monsters.The cast also includes Lance Reddick, Tamara Smart, Siena Agudong, Adeline Rudolph, Paola Nuñez, Ahad Raza Mir, Connor Gosatti and Turlough Convery."
+    },
+
+    {   "id":3,
+    "date":"19 August 2022",
+    "image": "/images/Hollywood/startrek.jfif",
+    "topic" : "‘Star Trek’ Movie Loses Director Matt Shakman",
+    "short_content":"Filmmaker Matt Shakman is no longer boldly going into the Star Trek galaxy.",
+    "category":"Hollywood",
+    "content":"Filmmaker Matt Shakman is no longer boldly going into the Star Trek galaxy.Shakman, who was set to helm a Trek movie for Paramount, has dropped out due to scheduling issues as he is jumping to Fantastic Four for Marvel Studios. The movie was a top priority at the Melrose Avenue-based studio and was dated for a Dec. 22, 2023 release.“Matt Shakman is an incredibly talented filmmaker, and we regret the timing didn’t align for him to direct our upcoming Star Trek film,” Paramount Pictures said in a statement. “We are grateful for his many contributions, are excited about the creative vision of this next chapter and look forward to bringing it to audiences all around world.”"
+    },
+
+
+    {   "id":4,
+    "date":"18 August 2022",
+    "image": "/images/Hollywood/taylor.jfif",
+    "topic" : "Taylor Swift’s MTV Video Music Award Wins: How Many She’s Won & For What",
+    "short_content":"Taylor Swift has 11 MTV Video Music Award Moon People to her name. Learn about all of her wins here, from her first in 2009 to her latest.",
+    "category":"Hollywood",
+    "content":"Taylor Swift last attended the MTV Video Music Awards in person in 2019, when she kicked off the night with her debut performances of “You Need to Calm Down” and “Lover” from the first album she ever owned, Lover. And although she has not been to the Video Music Awards in person since, the show has continued to show her support. For instance, Taylor, 32, won the award for Best Direction in 2020, making her the first solo female artist to do so in the show’s 38-year history. The music video that helped Taylor achieve the honor was the video for  “The Man” — a pointed song that slams sexism in the industry — which served as Taylor’s directorial debut."
+    },
+
+
+    {   "id":5,
+    "date":"17 August 2022",
+    "image": "/images/Hollywood/danny.jfif",
+    "topic" : "Danny Huston Joins Bill Skarsgard in ‘The Crow’",
+    "short_content":"Veteran actor Danny Huston has joined Bill Skarsgard and FKA Twigs in The Crow, the new adaptation of the comic created by James O’Barr.",
+    "category":"Hollywood",
+    "content":"Veteran actor Danny Huston has joined Bill Skarsgard and FKA Twigs in The Crow, the new adaptation of the comic created by James O’Barr.Rupert Sanders is directing the feature which is now weeks-deep in production in the Czech Republic.Crow was an indie comic written and drawn by James O’Barr in the late 1980s that told the dark tale of a man and his fiancee who are assaulted and killed by a gang after the couple’s car breaks down. The man is resurrected by a crow and exacts vengeance on those who took his life and the life of his love.It was famously adapted in 1994 in a film that starred Brandon Lee, who died after an on-set gun accident. Several sequels and a series followed."
+    }
+
+]

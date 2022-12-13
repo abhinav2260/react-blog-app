@@ -1,0 +1,47 @@
+
+[
+    {   "id":1,
+    "date":"21 August 2022",
+    "image": "/images/food/dryfruits.jfif",
+    "topic" : "6 Myths About Nuts And Dry Fruits Busted",
+    "short_content":"We shall uncover some truths and debunk myths about nuts and dry fruits",
+    "category":"Food",
+    "content":" MYTH: MAMRA ALMONDS ARE GOOD FOR HEALTH AS COMPARED TO CALIFORNIA ALMONDS Fact: It is true that Mamra is good for health because they contain a much higher amount of monosaturated oils that help in lowering bad cholesterol in your body while also raising healthy cholesterol. They also have higher content of natural sugar and protein making them more nutritious. People with higher physical activity and minimal consumption can consume Mamra as it fulfils your daily requirement of nutrients and gives you an energy boost because of the high protein and sugar content. MYTH:  RAISINS HAVE HIGH SUGAR CONTENT AND ARE NOT GOOD FOR TEETH Fact: Raisins have several antioxidants, one of which inhibits the growth of oral bacteria. It can even prevent cavity-causing bacteria from developing by keeping the bacteria from adhering to the surface of the tooth at all."
+    },
+
+    {   "id":2,
+    "date":"20 August 2022",
+    "image": "/images/food/breakfast.jpg",
+    "topic" : "Breakfast Ideas To Kickstart Your Day And Its Importance",
+    "short_content":"You may boost your metabolism and burn more calories throughout the day by eating breakfast on time.",
+    "category":"Food",
+    "content":"Nutritionist Anjali Mukerjee shared a list of breakfast ideas on her Instagram space. The quintessential breakfast ideas shared by the nutritionist will boost your energy to the brim. Additionally, it will provide your body with all the required nutrients. According to the Anjali, people must avoid consuming foods like fried ganthia, chaklis, fried dosa, stuffed parathas, puri bhaji, batata vasad and medu vasad for breakfast. It is because these foods are high in fat and they take longer to digest. Listed below are the breakfast ideas for people who are light eaters: Egg on toast along with mint-coriander juice,Moon dal dosa. Try it with green chutney and tomato-carrot juiceGobi paratha with curd and ash gourd juice"
+    },
+
+    {   "id":3,
+    "date":"19 August 2022",
+    "image": "/images/food/grapes.jfif",
+    "topic" : "A New Study Reveals Astonishing Health Benefits of Grapes",
+    "short_content":"A new study demonstrates astonishing effects of grape consumption as well as remarkable impacts on health and lifespans",
+    "category":"Food",
+    "content":"According to a study that was published in the journal ‘Foods’, western countries’ typical high-fat diet could be improved by including grapes in the amount of just under two cups per day, which would result in a decrease in fatty liver and an increase in lifespan.Pezzuto, who has written over 600 scientific studies, noted that these studies give the adage “you are what you eat a whole new meaning and that the work with grapes demonstrated real modifications in genetic expression. “That is genuinely amazing.Grapes increased levels of antioxidant genes and postponed natural death in conjunction with a high-fat diet. Pezzuto said his best estimate is that the change seen in the study would correspond to an additional 4-5 years in human life."
+    },
+
+    {   "id":4,
+    "date":"18 August 2022",
+    "image": "/images/food/Indian_Dishes.jfif",
+    "topic" : "Irresistible Indian Cuisines That You Must Not Miss",
+    "short_content":"There are several mouthwatering treats made in Indian kitchens that you simply must have, whether it is the Biryani from Hyderabad or the vada pav from Mumbai. Take a look at this right here",
+    "category":"Food",
+    "content":"Biryani: Cooked with rice, spices, and meat, Hyderabadi biryani is known for its unique aroma and flavour. While Hyderabad’s biryani is world famous, states across the country make this quintessential main dish in different styles. Chicken, mutton, fish, and at times, even prawns are added to enhance the flavour.Butter chicken: The next on the list is an all-time favourite, butter chicken. This dish has a very special place in every Indian’s heart. It is filled with rich cream and butter that will keep you full. Originated in northern India, butter chicken is typically served with naan, kulcha, and roti.Mughlai chicken: Like many north Indian dishes, Mughlai chicken is another meal heavy on cream. The blend of spices like cumin, coriander, bay leaves, cloves, green cardamom and cinnamon sticks makes it the most delicious dish. Some people prefer to add almonds and enjoy it with naan."
+    },
+
+    {   "id":5,
+    "date":"17 August 2022",
+    "image": "/images/food/streetfoods.jpg",
+    "topic" : "Must Try Street Dishes in Mumbai",
+    "short_content":"If you're visiting Mumbai for the first time then your bucket list must include street food.",
+    "category":"Food",
+    "content":"Akuri on toast: Craving some lip-smacking Parsi breakfast? If that’s the case, then try this lesser-known dish, Akuri on toast. It is prepared using eggs, onion, tomato, salt, red chili powder, coriander, and green chilies.Bombay sandwich: Pocket-friendly and tasty, Bombay sandwich is the second-most well-known street food of Mumbai after vada pav. The most unexpected ingredients were combined to create this street food masterpiece. With the help of butter, bread, beetroot, potatoes, cucumbers, tomatoes, onions, and mint chutney, you can quickly prepare this popular Bombay sandwich at home too.Baida roti: Due to the renowned restaurant Bademiyan in Colaba, Baida roti has gained popularity in the street-food category in Mumbai. One can prepare this by using some mashed potatoes and then combining them with green chilies, ginger, garlic, lime juice, turmeric, and fresh coriander before covering it in besan batter and deep frying. You can have this for breakfast or as a snack with your tea in the evening."
+    }
+]

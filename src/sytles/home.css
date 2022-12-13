@@ -1,0 +1,58 @@
+.top_menu{
+    display: flex;
+    justify-content: space-between;
+    width: 1400px;
+    position: relative;
+    left: 200px;
+    margin-top: 25px;
+}
+
+.home_main_left{
+    position: relative;
+    left: 0px;
+    width: 1000px;
+    height: 600px;
+}
+
+.home_main_right{
+    position: relative;
+    height: 600px;
+    width: 390px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+
+.title{
+    position: absolute;
+        bottom: 10px;
+       color: white;
+       left:20px;
+}
+
+.content_container{
+    position:relative;
+    height:290px;
+}
+.content_container1{
+    position:relative;
+    height:100%;
+}
+
+.image{
+    width: 100%;
+    height: 100%;
+}
+.image1{
+    width: 100%;
+    height: 100%;
+}
+
+
+.latest_title{
+    margin-left: 275px;
+    font: normal normal 40px/40px Montserrat;
+    font-weight: 600;
+
+}

@@ -1,0 +1,47 @@
+
+[
+    {   "id":1,
+    "date":"21 August 2022",
+    "image": "/images/fitness/Yoga.jfif",
+    "topic" : "Do TranceForm Yoga to lose weight",
+    "short_content":"Healthy, small meals; brisk walks; positive thinking? These are the tools commonly recommended for weight loss. Delhi-based yoga expert Dinesh Dagar adds a unique dimension to this: TranceForm Yoga. Read on?",
+    "category":"Fitness",
+    "content":"Yoga addresses the five layers of our being - body, energy, mind, wisdom and spirit - leading to mental, physical and emotional well-being. Dinesh Dagar, a new-age yoga guru, has fused age-old yogic asanas with cardio-vascular and interval training to come up with a unique form: Trance-Form Yoga, a regimen that has helped his students lose as much as 30kg in a year's time! 'By combining the modern and ancient techniques, a person can work on the physical and subliminal level at the same time,' explains Dinesh. A NEW FORM: Dinesh started out with a BSc in Yoga from Bangalore. This was followed up with assisting Bharat Thakur, who formulated Artistic Yoga. 'Then I moved on to blend the benefits of yoga with cardio exercises to create visible effects on the body. We all have a physical body (anmay khosha) and an inner life-force (pranayam khosha). Transformation is possible when the two are in harmony,' says Dinesh."
+    },
+
+    {   "id":2,
+    "date":"20 August 2022",
+    "image": "/images/fitness/burnfat.jfif",
+    "topic" : "Quick ways to burn fat",
+    "short_content":"Here's how to get started.",
+    "category":"Fitness",
+    "content":"Get sweaty every day; not a mere glow or perspiration, but a genuine, downright old-fashioned? sweat. If you're wary of the gym, try a fun alternative that burns more calories than walking (246 Calories per hour for a moderate pace). Salsa dance or swimming laps burns 422 Calories; biking or playing table-tennis, 281.Take a break. You may burn more fat when you divide a 60-minute workout into two 30-minute sessions with a 20-minute rest in between - and the boost may even continue post-exercise. Get your hands dirty. Gardening gives you as much of a workout as walking or golf, a recent US study reported. Plus: The weightbearing motions involved in digging and weed-pulling strengthen bones and muscle. Do it to music. Tunes that are in sync with your workout rate help keep you exercising - up to 15 percent longer, British researchers found.    "
+    },
+
+    {   "id":3,
+    "date":"19 August 2022",
+    "image": "/images/fitness/daru.jfif",
+    "topic" : "People who drink moderately are healthier",
+    "short_content":"It's okay to have a couple of glasses of wine in the evening, say researchers who have found that people who drink in moderation are actually healthier than teetotallers.",
+    "category":"Fitness",
+    "content":"It's okay to have a couple of glasses of wine in the evening, say researchers who have found that people who drink in moderation are actually healthier than teetotallers. A major new study, published in the 'European Journal of Clinical Nutrition', has revealed that people who drink moderately have lower rates of heart disease, obesity and depression than those who abstain from alcohol entirely. Dr Boris Hansel of the Piti?-Salp?tri?re Hospital in Paris, who led the study, said: Moderate alcohol intake is a powerful marker of a higher social level, superior general health status and lower cardiovascular risk. As part of the study the researchers analysed the medical records of 150,000 people from the Paris area who underwent medical examinations between 1999 and 2005. The split the sample into four groups -- people who did not drink, light drinkers, moderate drinkers, and heavy drinkers."    
+    },
+
+    {   "id":4,
+    "date":"18 August 2022",
+    "image": "/images/fitness/brain.png",
+    "topic" : "Work out your brain to keep sharp",
+    "short_content":"3 easy ways to strengthen your memory as you grow older.",
+    "category":"Fitness",
+    "content":"Our memory peaks in our 20s and 30s and slowly begins to decline after that. Memory lapses, like losing your keys, arriving at the grocery shop and forgetting what you were supposed to get, trouble remembering where you left your car in the parking lot, or forgetting the name of the person you were introduced to five minutes ago, are common and even normal for adults going into their fourth or fifth decade. These are episodic memories, which capture the 'what', 'where', and 'when' of our daily lives and decline normally with age. Other functions which slow down somewhat include our capacities for learning something new, and shifting focus from one activity to another. But the ability to recall concepts and general facts or vocabulary and language skills, which fall under semantic memory continue to improve for many older adults."
+    },
+
+    {   "id":5,
+    "date":"17 August 2022",
+    "image": "/images/fitness/heart.png",
+    "topic" : "Laugh for a better heart",
+    "short_content":"In addition to the domino effect of joy and amusement, laughter is the best medicine, for a new study has found that it can be as healthy as exercise.",
+    "category":"Fitness",
+    "content":"In addition to the domino effect of joy and amusement, laughter is the best medicine, for a new study has found that it can be as healthy as exercise. Scientists have found that laughter affects the body in a similar way to exercise, say a jog around the park -- in fact, it lifts the mood, decreases stress hormones, enhances immune activity, lowers blood pressure and bad cholesterol. For the study, a number of volunteers were asked to watch just 20 minutes of comedies and their blood samples saw a dramatic drop in stress hormones, blood pressure and levels of cholesterol. Like exercise, they also had their appetite stimulated. That means that the laughercise can be a way to reduce heart disease and diabetes. It is especially important to the elderly who may find it hard to perform more physical activities, say the scientists.    "
+    }
+]
